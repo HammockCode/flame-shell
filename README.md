@@ -7,6 +7,6 @@ usage: flames.py [-h] iterations
 
 for example, type:
 
-python flames.py 100
+./flames.py 100
 
 
